@@ -1,0 +1,7 @@
+C:\Users\ADM\source\repos\jogo_da_adivinhacao\jogo_da_adivinhacao\bin\Debug\jogo_da_adivinhacao.exe.config
+C:\Users\ADM\source\repos\jogo_da_adivinhacao\jogo_da_adivinhacao\bin\Debug\jogo_da_adivinhacao.exe
+C:\Users\ADM\source\repos\jogo_da_adivinhacao\jogo_da_adivinhacao\bin\Debug\jogo_da_adivinhacao.pdb
+C:\Users\ADM\source\repos\jogo_da_adivinhacao\jogo_da_adivinhacao\obj\Debug\jogo_da_adivinhacao.csproj.AssemblyReference.cache
+C:\Users\ADM\source\repos\jogo_da_adivinhacao\jogo_da_adivinhacao\obj\Debug\jogo_da_adivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\jogo_da_adivinhacao\jogo_da_adivinhacao\obj\Debug\jogo_da_adivinhacao.exe
+C:\Users\ADM\source\repos\jogo_da_adivinhacao\jogo_da_adivinhacao\obj\Debug\jogo_da_adivinhacao.pdb
