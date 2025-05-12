@@ -1,0 +1,7 @@
+C:\Users\ADM\OneDrive\Desktop\Aulas C#\CalculadoraDeConsole\bin\Debug\CalculadoraDeConsole.exe.config
+C:\Users\ADM\OneDrive\Desktop\Aulas C#\CalculadoraDeConsole\bin\Debug\CalculadoraDeConsole.exe
+C:\Users\ADM\OneDrive\Desktop\Aulas C#\CalculadoraDeConsole\bin\Debug\CalculadoraDeConsole.pdb
+C:\Users\ADM\OneDrive\Desktop\Aulas C#\CalculadoraDeConsole\obj\Debug\CalculadoraDeConsole.csproj.AssemblyReference.cache
+C:\Users\ADM\OneDrive\Desktop\Aulas C#\CalculadoraDeConsole\obj\Debug\CalculadoraDeConsole.csproj.CoreCompileInputs.cache
+C:\Users\ADM\OneDrive\Desktop\Aulas C#\CalculadoraDeConsole\obj\Debug\CalculadoraDeConsole.exe
+C:\Users\ADM\OneDrive\Desktop\Aulas C#\CalculadoraDeConsole\obj\Debug\CalculadoraDeConsole.pdb
