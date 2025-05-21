@@ -1,0 +1,7 @@
+C:\Users\ADM\source\repos\ConversorDeMoeda\bin\Debug\ConversorDeMoeda.exe.config
+C:\Users\ADM\source\repos\ConversorDeMoeda\bin\Debug\ConversorDeMoeda.exe
+C:\Users\ADM\source\repos\ConversorDeMoeda\bin\Debug\ConversorDeMoeda.pdb
+C:\Users\ADM\source\repos\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Users\ADM\source\repos\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.exe
+C:\Users\ADM\source\repos\ConversorDeMoeda\obj\Debug\ConversorDeMoeda.pdb
