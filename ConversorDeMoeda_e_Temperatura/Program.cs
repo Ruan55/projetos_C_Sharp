@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConversorDeMoeda
+namespace ConversorDeMoeda_e_Temperatura
 {
     internal class Program
     {
