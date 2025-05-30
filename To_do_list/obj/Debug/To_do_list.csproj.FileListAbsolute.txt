@@ -1,0 +1,7 @@
+C:\Users\ADM\source\repos\To_do_list\bin\Debug\To_do_list.exe.config
+C:\Users\ADM\source\repos\To_do_list\bin\Debug\To_do_list.exe
+C:\Users\ADM\source\repos\To_do_list\bin\Debug\To_do_list.pdb
+C:\Users\ADM\source\repos\To_do_list\obj\Debug\To_do_list.csproj.AssemblyReference.cache
+C:\Users\ADM\source\repos\To_do_list\obj\Debug\To_do_list.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\To_do_list\obj\Debug\To_do_list.exe
+C:\Users\ADM\source\repos\To_do_list\obj\Debug\To_do_list.pdb
