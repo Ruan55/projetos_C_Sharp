@@ -1,0 +1,7 @@
+C:\Users\ADM\source\repos\Exercicios_C_Sharp\Ex009\bin\Debug\Ex009.exe.config
+C:\Users\ADM\source\repos\Exercicios_C_Sharp\Ex009\bin\Debug\Ex009.exe
+C:\Users\ADM\source\repos\Exercicios_C_Sharp\Ex009\bin\Debug\Ex009.pdb
+C:\Users\ADM\source\repos\Exercicios_C_Sharp\Ex009\obj\Debug\Ex009.csproj.AssemblyReference.cache
+C:\Users\ADM\source\repos\Exercicios_C_Sharp\Ex009\obj\Debug\Ex009.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Exercicios_C_Sharp\Ex009\obj\Debug\Ex009.exe
+C:\Users\ADM\source\repos\Exercicios_C_Sharp\Ex009\obj\Debug\Ex009.pdb

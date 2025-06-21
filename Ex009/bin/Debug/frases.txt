@@ -1,0 +1,5 @@
+Olá, tudo bem?
+Hoje o dia está bonito.
+Sim, é verdade
+Sim, sim
+Fim do programa.
