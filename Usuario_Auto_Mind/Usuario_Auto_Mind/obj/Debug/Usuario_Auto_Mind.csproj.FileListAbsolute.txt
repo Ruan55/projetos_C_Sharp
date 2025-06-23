@@ -1,7 +1,0 @@
-C:\Users\ADM\source\repos\Usuario_Auto_Mind\Usuario_Auto_Mind\bin\Debug\Usuario_Auto_Mind.exe.config
-C:\Users\ADM\source\repos\Usuario_Auto_Mind\Usuario_Auto_Mind\bin\Debug\Usuario_Auto_Mind.exe
-C:\Users\ADM\source\repos\Usuario_Auto_Mind\Usuario_Auto_Mind\bin\Debug\Usuario_Auto_Mind.pdb
-C:\Users\ADM\source\repos\Usuario_Auto_Mind\Usuario_Auto_Mind\obj\Debug\Usuario_Auto_Mind.csproj.AssemblyReference.cache
-C:\Users\ADM\source\repos\Usuario_Auto_Mind\Usuario_Auto_Mind\obj\Debug\Usuario_Auto_Mind.csproj.CoreCompileInputs.cache
-C:\Users\ADM\source\repos\Usuario_Auto_Mind\Usuario_Auto_Mind\obj\Debug\Usuario_Auto_Mind.exe
-C:\Users\ADM\source\repos\Usuario_Auto_Mind\Usuario_Auto_Mind\obj\Debug\Usuario_Auto_Mind.pdb
